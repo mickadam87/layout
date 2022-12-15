@@ -11,7 +11,7 @@ export default function FlexView(props: {
   margin?: number;
   padding?: number;
   style?: StyleProp<ViewStyle>;
-  children?: JSX.Element[];
+  children?: JSX.Element[] | JSX.Element;
 }) {
   const viewStyle: ViewStyle = {
     display: "flex",
