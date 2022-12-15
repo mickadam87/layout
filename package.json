@@ -1,6 +1,6 @@
 {
   "name": "mkdm-rn-flexview",
-  "version": "1.0.29",
+  "version": "1.0.30",
   "description": "Flex View full customizable",
   "private": false,
   "main": "lib/index.js",
